@@ -8,7 +8,7 @@ logging.basicConfig(
 )
 
 # Configuration - PASTE YOUR TOKEN HERE
-BOT_TOKEN = "7220466960:AAEYgARhz9pOabemCRwVf_KtTxM2gVoOPFQ"
+BOT_TOKEN = "7220466960:AAEOxHqkbWu65Mk84V-LAU1o6LAzK_BY_lM"
 
 # Define states for the conversation
 GAMES, SKINS, COLLECTOR, RANK, PRICE, CONTACT, CHANNEL = range(7)
